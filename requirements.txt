@@ -210,9 +210,9 @@ pyflakes==3.0.1 \
     --hash=sha256:ec55bf7fe21fff7f1ad2f7da62363d749e2a470500eab1b555334b67aa1ef8cf \
     --hash=sha256:ec8b276a6b60bd80defed25add7e439881c19e64850afd9b346283d4165fd0fd
     # via flake8
-pymdown-extensions==10.20.1 \
-    --hash=sha256:24af7feacbca56504b313b7b418c4f5e1317bb5fea60f03d57be7fcc40912aa0 \
-    --hash=sha256:e7e39c865727338d434b55f1dd8da51febcffcaebd6e1a0b9c836243f660740a
+pymdown-extensions==10.21.3 \
+    --hash=sha256:72cfcf55f07aea0d4af2c4f11dd4e52466ddfb1bb819673146398e0bd3a77354 \
+    --hash=sha256:d7a5d08014fc571e80ca21dd6f854e31f94c489800350564d55d15b3c41e76b6
     # via -r requirements-dev.txt
 pytest==7.3.2 \
     --hash=sha256:cdcbd012c9312258922f8cd3f1b62a6580fdced17db6014896053d47cddf9295 \
